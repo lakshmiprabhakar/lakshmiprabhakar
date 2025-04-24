@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis, Adv Python Programs**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** ,**Web Development**
 
 - 📫 How to reach me **lakshmiprabhakar9119@gmail.com**
 
