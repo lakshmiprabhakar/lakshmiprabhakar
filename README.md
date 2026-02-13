@@ -63,7 +63,30 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> 
   </a> 
+<!-- Microsoft SQL Server -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+</a>
 
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<!-- SQLite -->
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+<!-- Google Sheets -->
+<a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="googlesheets" width="40" height="40"/>
+</a>
+
+<!-- Looker Studio -->
+<a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353809/google-looker.svg" alt="lookerstudio" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmiprabhakar&show_icons=true&locale=en&layout=compact" alt="lakshmiprabhakar" /></p>
