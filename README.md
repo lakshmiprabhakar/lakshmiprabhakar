@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **AI Driven Data Analysis, Adv Python Programs**
 
+- 💬 Ask me about **Power Bi, Power Query, Excel, Tableau** ,**Data Analytics**
 - 💬 Ask me about **Python** ,**Web Development**
-
 - 📫 How to reach me **lakshmiprabhakar9119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
