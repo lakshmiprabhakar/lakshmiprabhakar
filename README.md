@@ -82,10 +82,24 @@
 <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="googlesheets" width="40" height="40"/>
 </a>
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
 
-<!-- Looker Studio -->
-<a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/353809/google-looker.svg" alt="lookerstudio" width="40" height="40"/>
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+<!-- Anaconda -->
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="40" height="40"/>
 </a>
 </p>
 
